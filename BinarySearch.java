@@ -9,6 +9,7 @@ public class BinarySearch{
         int size=snr.nextInt();
         int array[]=new int[size],element,middle,first,last;
         System.out.println("Enter the elements of the array");
+       
         for(int i=0;i<size;i++){
             array[i]=snr.nextInt();
         }
